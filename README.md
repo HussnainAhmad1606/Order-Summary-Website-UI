@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Click Here](https://github.com/HussnainAhmad1606/Order-Summary-Website-UI)
+- Live Site URL: [Click Here](https://hussnainahmad1606.github.io/Order-Summary-Website-UI/)
 
 ## My process
 I followed the following steps:
